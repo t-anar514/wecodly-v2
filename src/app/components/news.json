@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Robert Anderson",
+      "title": "Switch Black Friday багц дахин бэлэн боллоо, Nintendo-ийн хамгийн сайн хямдрал $155 хэмнээрэй - IGN",
+      "description": "Анх $350 үнэтэй байсан Nintendo Switch OLED Black Friday багц одоо ердөө $274.99 болсон бөгөөд энэ бол Nintendo консолын сүүлийн арван жилийн хамгийн сайн хямдрал юм. Бэлэн байгаа дээр нь аваарай.",
+      "url": "https://www.ign.com/articles/nintendo-switch-black-friday-bundle-2024-new-live",
+      "urlToImage": "https://assets-prd.ignimgs.com/2024/11/29/blackfriday2024-blogroll-switch-1732871121070.png?width=1280",
+      "publishedAt": "2024-11-29T09:08:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Хамгийн сайн Black Friday ухаалаг цаг, фитнесс төхөөрөмжийн хямдралууд - The Verge",
+      "description": "Apple Watch, Samsung Galaxy Watch, Pixel Watch 3, эсвэл Garmin-г хямдралтай авахыг хүсэж байгаа бол Black Friday болон Кибер Даваа гараг хамгийн тохиромжтой цаг.",
+      "url": "https://www.theverge.com/good-deals/24306393/black-friday-2024-best-deals-smartwatch-fitness-tracker-wearables-cyber-monday",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/gUaU5BsI-o5NVXVH-ue0330YBZk=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25623013/247270_Apple_watch_series_10_AKrales_0364.jpg",
+      "publishedAt": "2024-11-29T08:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Light of Motiram PS5, iOS, Android хувилбарууд нэмэгдэв; трейлер ба 16 минутын тоглоомын видео гарлаа - Gematsu",
+      "description": "Light of Motiram нь Tencent Games-ийн Polaris Quest болон Aurora Studio-ийн шинэ дэлхий дээр амьд үлдэх тоглоом бөгөөд PlayStation 5, iOS, Android дээр тоглоомын хувилбаруудтай болно.",
+      "url": "https://www.gematsu.com/2024/11/light-of-motiram-adds-ps5-ios-and-android-versions-reveal-trailer-and-16-minutes-of-gameplay",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2024/11/LoM-Gameplay-Trailer_11-28-24.jpg",
+      "publishedAt": "2024-11-29T04:55:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kayla Solino",
+      "title": "Apple Watch Ultra 2 Black Friday гаргаас хамгийн хямд үнээр зарагдаж байна - ZDNet",
+      "description": "Black Friday гаргын үеэр бараг бүх Apple Watch хямдарсан бөгөөд Ultra 2 ч мөн адил хямдралд орсон байна. Amazon дээрээс $179 хүртэл хэмнээрэй.",
+      "url": "https://www.zdnet.com/article/the-apple-watch-ultra-2-just-dropped-to-its-lowest-price-yet-for-black-friday/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9be22488e629684acb2d45a2ef3a6c67db6a0dbf/2024/11/29/544b0cf0-27c7-4a8c-8956-30966272bd7e/screenshot-2024-11-28-at-9-54-44-pm-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-11-29T04:05:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Цуу яриа: Mortal Kombat 1-ийн ирээдүйн DLC цуцлагдсан гэжээ - Nintendo Life",
+      "description": "Энэхүү цуурхал нь Mortal Kombat 1-ийн ирээдүйн DLC төлөвлөгөөнүүд цуцлагдсан байж магадгүйг харуулж байна.",
+      "url": "https://www.nintendolife.com/news/2024/11/rumour-mortal-kombat-1-future-dlc-supposedly-cancelled",
+      "urlToImage": "https://images.nintendolife.com/579dbb323e250/1280x720.jpg",
+      "publishedAt": "2024-11-29T03:30:00Z",
+      "content": null
+    }
+  ]
+}
